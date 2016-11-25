@@ -1,0 +1,6 @@
+= DeskOS: perl-X11-Protocol-Other RPM
+
+This is the _perl-X11-Protocol-Other_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/perl-X11-Protocol-Other-28-1.el7.nux.src.rpm[perl-X11-Protocol-Other-28-1.el7.nux.src.rpm]

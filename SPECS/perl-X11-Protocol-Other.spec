@@ -1,6 +1,6 @@
 Name:           perl-X11-Protocol-Other
 Version:        28
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Miscellaneous X11::Protocol helpers
 License:        GPLv3+
 Group:          Development/Libraries
@@ -48,6 +48,9 @@ make test
 %{_mandir}/man3/*
 
 %changelog
+* Fri Nov 25 2016 Ricardo Arguello <rarguello@deskosproject.org> - 28-2
+- Rebuilt for DeskOS
+
 * Wed Nov 13 2013 Robin Lee <cheeselee@fedoraproject.org> - 28-1
 - Update to version 28
 
